@@ -2,5 +2,6 @@
   {"id": 1, "name": "Laptop", "category": "Electronics"},
   {"id": 2, "name": "Notebook", "category": "Stationery"},
   {"id": 3, "name": "Water Bottle", "category": "Accessories"},
-  {"id": 4, "name": "Mouse", "category": "Electronics"}
+  {"id": 4, "name": "Headphones", "category": "Electronics"},
+  {"id": 5, "name": "Backpack", "category": "Accessories"}
 ]
